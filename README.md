@@ -24,8 +24,6 @@
 
 <img src="https://github.com/tomatoyou/LDA-/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E4%B8%BB%E9%A2%98%E6%8F%90%E5%8F%96.png" alt="替代文本" width="700px">
 
-<img src="https://github.com/tomatoyou/LDA-/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E5%8F%AF%E8%A7%86%E5%8C%96.png" alt="替代文本" width="700px">
-
 <img src="https://github.com/tomatoyou/LDA-/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%93%E6%9E%9C.png" alt="替代文本" width="700px">
 
 <img src="https://github.com/tomatoyou/LDA-/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E5%9B%B0%E6%83%91%E5%BA%A6%E8%AE%A1%E7%AE%97.png" alt="替代文本" width="700px">
