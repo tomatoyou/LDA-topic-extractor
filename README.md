@@ -39,7 +39,7 @@
 <img src="https://github.com/tomatoyou/LDA-/blob/main/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE/%E6%B7%BB%E5%8A%A0%E7%94%A8%E6%88%B7%E8%AF%8D%E5%85%B8.png" alt="替代文本" width="700px">
 
 ## 4 参考资料
-[1] https://www.bilibili.com/video/BV123411G7Z9/?spm_id_from=333.337.search-card.all.click&vd_source=da5e0dd60be12895200f4a821f52fb26
+[1] https://www.bilibili.com/video/BV123411G7Z9/?spm_id_from=333.337.search-card.all.click&vd_source=da5e0dd60be12895200f4a821f52fb26  
 [2]	https://www.bilibili.com/video/BV1cJ411R7bP/?spm_id_from=333.337.search-card.all.click&vd_source=da5e0dd60be12895200f4a821f52fb26  
 [3]	https://www.bilibili.com/video/BV1LQ4y1Q7xv/?spm_id_from=333.337.search-card.all.click&vd_source=da5e0dd60be12895200f4a821f52fb26  
 [4]	https://blog.csdn.net/qq_39496504/article/details/107125284  
