@@ -1,4 +1,4 @@
-# LDA-
+# LDA-topic-extractor
 基于LDA主题模型和主题困惑度的文本主题提取系统  
 
 ├─chart：软件运行截图和算法示意图  
